@@ -1,0 +1,5 @@
+.env
+node_modules
+charles-ssl-proxying-certificate.pem
+package-lock.json
+.vscode
